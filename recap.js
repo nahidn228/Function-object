@@ -21,4 +21,8 @@ function doMath(num1, num2) {
   return sub;
 }
 let value = doMath(10, 5);
-console.log(value);
+//console.log(value);
+
+
+
+
